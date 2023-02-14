@@ -2,7 +2,7 @@
 To-do list built using ejs. 
 
 To run this project:
-1. Download npm software.
+1. Download node and mongodb
 2. Download zip file of this project and store it in any desired location.
 3. using terminal cd over to that location.
 4. type: "npm init-y"  -- to initialize npm
